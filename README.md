@@ -50,4 +50,29 @@ Some hints:
 
 While your code should work for any number of years simulated and initial populations of rabbits & foxes , please use 15 years, 44 rabbits and 2 foxes in your output file.
 
+Sample Output:
+
+==> Rabbits and Foxes Population Simulator <==
+
+Enter Number of Years to Simulate: 3
+
+--- Initial Population ---       
+Enter Initial Rabbit Population: 1
+Enter Initial Fox Population: 1000
+
+--- Model Parameters --- 
+Rabbits birth rate: 0.2  
+Rabbits death rate: 0.005
+Foxes birth rate: 0.001  
+Foxes death rate: 0.2    
+
+
+--- Per Year Populations ---
+Year 0: 1 rabbits, 1000 foxes
+Year 1: 0 rabbits, 801 foxes
+Year 2: 0 rabbits, 640 foxes
+Year 3: 0 rabbits, 512 foxes
+
+Rabbit populations: [1, 0, 0, 0]
+Fox populations: [1000, 801, 640, 512]
 
