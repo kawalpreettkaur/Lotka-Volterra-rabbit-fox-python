@@ -2,8 +2,6 @@
 
 rabbit-fox population calculator that determines the population size of foxes and rabbits who live within a certain area of land, as that number changes from year to year using Lotka Volterra Equation.
 
-[ Chegg Question ]
-
 It models the rabbits & foxes with 4 constants, and 2 data structures of year by year values. They are defined as follows:
 
 1. r[y] # of rabbits in year y
